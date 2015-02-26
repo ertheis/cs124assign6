@@ -108,7 +108,7 @@ class EnglishModel:
 
 
 test = EnglishModel()
-test.load_bigrams("/afs/ir.stanford.edu/users/j/w/jwood3/CS124/FinalProject/w2Caps")
+test.load_bigrams("./w2Caps")
 def PRINT(x):
   print x[0], "(relative prob: %.4f percent)" % (x[1]*100)
 map(PRINT, test.rate_sentences([["this"],["is", "issss", "that"],["a", "not", "maid"],["hit", "great", "a", "maid"],["sentence", "mermaid"]]))
