@@ -1,0 +1,19 @@
+[['I', 'me'], ['drink', 'gulp', 'swallow'], ['milk']]
+_______________
+[['Mr.', 'Ms.'], ['Robert'], [','], ['I', 'me'], ['be', 'exist', 'live', 'have', 'be located', 'be equipped with', 'happen', 'come about'], ['test'], ['tomorrow']]
+_______________
+[['I', 'me'], ['study'], ['Japanese'], ['yesterday']]
+_______________
+[['this'], ['be'], ['I', 'me'], ['cute', 'adorable', 'charming', 'lovely', 'pretty', 'dear', 'precious', 'darling', 'pet', 'cute little', 'tiny'], ['pen']]
+_______________
+[["Let's"], ['drink', 'gulp', 'swallow'], ['coffee'], ['coffee lounge', 'coffee shop', 'cafe']]
+_______________
+[["Let's"], ['study'], ['together', 'at the same time', 'same', 'identical'], ['library']]
+_______________
+[['such', 'like that', 'that sort of', 'very'], ['thing', 'matter', 'incident', 'occurrence', 'event', 'circumstances', 'situation', 'state of affairs', 'work', 'business', 'affair'], ['if', 'in case', 'if it is the case that', 'if it is true that', 'as for', 'on the topic of'], [','], ['cooperate'], ['happily']]
+_______________
+[['I', 'me'], ['help', 'assist', 'take part in'], ['he', 'him', 'his']]
+_______________
+[['I'], ['teach', 'inform', 'instruct'], ['university']]
+_______________
+[['Jason'], [','], ['hold', 'carry', 'possess'], ['family', 'members of a family'], ['photograph', 'photo', 'movie']]

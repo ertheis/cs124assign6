@@ -105,10 +105,3 @@ class EnglishModel:
       #should always add a period!!!!!!!! << TODO
       percent_rated_sentences = map(lambda R: (R[0]+".", 1.0*R[1]/total_probs), rated_sentences)
       return percent_rated_sentences[0:self.return_top_k]
-
-
-test = EnglishModel()
-test.load_bigrams("./w2Caps")
-def PRINT(x):
-  print x[0], "(relative prob: %.4f percent)" % (x[1]*100)
-map(PRINT, test.rate_sentences([["this"],["is", "issss", "that"],["a", "not", "maid"],["hit", "great", "a", "maid"],["sentence", "mermaid"]]))
