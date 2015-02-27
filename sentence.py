@@ -190,6 +190,12 @@ class Sentence:
             text = word[0]
             tags = word[1]
             
+            if text[0] == 'be':
+                self.parsed[i] = [self.conjugateVerbs(text, tags), tags]
+                word = self.parsed[i]
+                text = word[0]
+                tags = word[1]
+            
             for tag in tags:
                 if tag == '[PLR]':
                     self.sing = False
